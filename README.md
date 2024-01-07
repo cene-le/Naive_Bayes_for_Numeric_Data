@@ -2,7 +2,7 @@
 ## Experimental analysis of Naive Bayes accuracy on datasets that have numerical variables
 
 ## Dataset Description:
-- **Sumber Data:** [Iris Dataset](https://www.kaggle.com/datasets/vikrishnan/iris-dataset)
+- **Data source:** [Iris Dataset](https://www.kaggle.com/datasets/vikrishnan/iris-dataset)
 
 
 ## Goals:
